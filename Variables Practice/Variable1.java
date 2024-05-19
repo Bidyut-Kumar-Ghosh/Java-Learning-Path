@@ -1,6 +1,7 @@
-public class Main {
+public class Variable1 {
   public static void main(String[] args) {
-    String name = "John";
+    String name = "Bidyut";
     System.out.println(name);
   }
 }
+
